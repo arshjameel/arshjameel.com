@@ -1,4 +1,4 @@
-baseURL = 'https://arshjameel.github.io'
+baseURL = 'https://arshjameel.github.io/public/'
 languageCode = 'en-us'
 title = 'Arsh Jameel'
 theme = 'PaperMod'
