@@ -13,8 +13,8 @@ home = [ "HTML", "RSS", "JSON" ]
     ShowPostNavLinks = 'true'
     
     [params.homeInfoParams]
-        Title = 'Hello'
-        Content = 'Amongus'
+        Title = 'Welcome!👋'
+        Content = "My name is Arsh Jameel, and this is my blog. You can check out my articles on technology and self-improvement below, or get to know me better by following me on my socials linked in the header."
 
 [menu]
     [[menu.main]]
@@ -26,25 +26,17 @@ home = [ "HTML", "RSS", "JSON" ]
         url = '/search/'
         weight = '20'
     [[menu.main]]
-        name = 'Socials'
-        identifier = 'Socials'
-        url = '/socials/'
-        weight = '30'
-    [[menu.main]]
         name = 'Twitter'
         identifier = 'Twitter'
-        parent = 'socials'
         url = 'https://twitter.com/ArshJameel_/'
-        weight = '32'
+        weight = '30'
     [[menu.main]]
         name = 'Instagram'
         identifier = 'Instagram'
-        parent = 'socials'
         url = 'https://www.instagram.com/arshjameel_/'
-        weight = '34'
+        weight = '40'
     [[menu.main]]
         name = 'GitHub'
         identifier = 'GitHub'
-        parent = 'socials'
         url = 'https://github.com/arshjameel'
-        weight = '36'
+        weight = '50'
