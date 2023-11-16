@@ -14,6 +14,6 @@ This project is open source and is released under the [MIT License](LICENSE). By
 
 For details about the MIT License and its provisions, please refer to the full license text available in this [file](LICENSE).
 
-## Tools used to build the website:
+## Tools used:
 - [Hugo](https://gohugo.io/) as the application framework and Content Management System (CMS)
 - [Netlify](https://www.netlify.com/) to continuously build and deploy the application
