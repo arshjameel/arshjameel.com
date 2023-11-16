@@ -26,17 +26,25 @@ home = [ "HTML", "RSS", "JSON" ]
         url = '/search/'
         weight = '20'
     [[menu.main]]
+        name = 'Socials'
+        identifier = 'Socials'
+        url = '/socials/'
+        weight = '30'
+    [[menu.main]]
         name = 'Twitter'
         identifier = 'Twitter'
+        parent = 'socials'
         url = 'https://twitter.com/ArshJameel_/'
-        weight = '30'
+        weight = '32'
     [[menu.main]]
         name = 'Instagram'
         identifier = 'Instagram'
+        parent = 'socials'
         url = 'https://www.instagram.com/arshjameel_/'
-        weight = '40'
+        weight = '34'
     [[menu.main]]
         name = 'GitHub'
         identifier = 'GitHub'
+        parent = 'socials'
         url = 'https://github.com/arshjameel'
-        weight = '50'
+        weight = '36'
