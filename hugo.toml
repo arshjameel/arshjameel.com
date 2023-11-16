@@ -3,40 +3,48 @@ languageCode = 'en-us'
 title = 'Arsh Jameel'
 theme = 'PaperMod'
 
+[minify]
+disableXML = true
+minifyOutput = true
+
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
 [params]
-    ShowBreadCrumbs = 'true'
-    ShowReadingTime = 'true'
-    # ShowShareButtons = 'true'
-    ShowPostNavLinks = 'true'
+    ShowReadingTime = true
+    ShowShareButtons = false
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+    ShowWordCount = false
+    ShowRssButtonInSectionTermList = true
+    UseHugoToc = true
+    disableSpecial1stPost = true
+    disableScrollToTop = false
+    comments = false
+    hidemeta = false
+    hideSummary = false
+    showtoc = true
+    tocopen = true
     
     [params.homeInfoParams]
         Title = 'Welcome!👋'
-        Content = "My name is Arsh Jameel, and this is my blog. You can check out my articles on technology and self-improvement below, or get to know me better by following me on my socials linked in the header."
+        content = "My name is Arsh Jameel, and this is my blog. You can check out my articles on technology and self-improvement and follow me on my socials below."
+        content2 = "[Twitter](https://twitter.com/ArshJameel_/) | [Instagram](https://www.instagram.com/arshjameel_/) | [GitHub](https://github.com/arshjameel)"
 
 [menu]
     [[menu.main]]
         name = 'Archive'
+        identifier = 'Archive'
         url = '/archive/'
         weight = '10'
     [[menu.main]]
         name = 'Search'
+        identifier = 'Search'
         url = '/search/'
         weight = '20'
     [[menu.main]]
-        name = 'Twitter'
-        identifier = 'Twitter'
-        url = 'https://twitter.com/ArshJameel_/'
+        name = 'About'
+        identifier = 'About'
+        url = '/about/'
         weight = '30'
-    [[menu.main]]
-        name = 'Instagram'
-        identifier = 'Instagram'
-        url = 'https://www.instagram.com/arshjameel_/'
-        weight = '40'
-    [[menu.main]]
-        name = 'GitHub'
-        identifier = 'GitHub'
-        url = 'https://github.com/arshjameel'
-        weight = '50'

@@ -6,6 +6,12 @@
     <div class="entry-content">
         {{ .Content | markdownify }}
     </div>
+
+    <!--added div to link socials in homepage-->
+    <div class="entry-content">
+        {{ .Content2 | markdownify }} 
+    </div>
+    
     <footer class="entry-footer">
         {{ partial "social_icons.html" site.Params.socialIcons }}
     </footer>
