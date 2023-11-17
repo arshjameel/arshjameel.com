@@ -4,6 +4,7 @@ layout: ""
 summary: "about"
 ShowReadingTime: false
 ShowBreadCrumbs: false
+tocopen: false
 ---
 ## Who?
 My name is Arsh Jameel, but you can simply call me Arsh. I am currently an undergraduate student at Carleton University, pursuing a degree in Computer Systems Engineering. I am a programmer, reader, writer, and an athlete. No I dont run marathons, but I do care about my physical and mental health.
