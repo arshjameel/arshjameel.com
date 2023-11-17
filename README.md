@@ -7,8 +7,9 @@ The website is built with the intention of showcasing any projects or ideas I mi
 The blogs are written with Markdown, which then get rendered to HTML with the help of Hugo. The theme used for the website is called "PaperMod", which you can check [here](https://github.com/adityatelange/hugo-PaperMod/).
 
 ## Tools used:
-- [Hugo](https://github.com/gohugoio/hugo) as the application framework and Content Management System (CMS)
-- [Netlify](https://www.netlify.com/) to continuously build and deploy the application
+- [Hugo](https://github.com/gohugoio/hugo) as the website framework and Content Management System (CMS)
+- [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) for the website's theme
+- [Netlify](https://www.netlify.com/) to continuously build and deploy the website
 
 ## Licensing Information
 
