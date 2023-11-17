@@ -4,7 +4,7 @@ This is my personal website built with Hugo, an open-source static site generato
 
 The website is built with the intention of showcasing any projects or ideas I might want to share with the world in the form of blogs, and may contain links to affiliate products. 
 
-The blogs are written with Markdown, which then get rendered to HTML with the help of Hugo. The theme used for the website is called "PaperMod", which you can check [here](https://github.com/adityatelange/hugo-PaperMod/).
+The articles are written in Markdown, which then get rendered to HTML with the help of Hugo. The theme used for the website is called "PaperMod", which you can check [here](https://github.com/adityatelange/hugo-PaperMod/).
 
 ## Tools used:
 - [Hugo](https://github.com/gohugoio/hugo) as the website framework and Content Management System (CMS)
