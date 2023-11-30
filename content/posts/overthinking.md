@@ -10,7 +10,7 @@ Most people read “distraction” and think of TV or scrolling on social media,
 
 A couple of months ago, I was convinced I had to write the lecture notes for my class in [Markdown](https://en.wikipedia.org/wiki/Markdown). I was convinced it was a superior method of note-taking as I had more control over how my finished notes would look as a PDF. I spent so much time beautifying my notes that a few months later I received the fruits of my labor. A final grade of C. 
 
-It is easy to say to not be like me, but everyone has had moments in their life where they wasted their time on the wrong thing. I had some of my friends who spent the majority of their freshman years partying and hanging out. 
+It is easy to say to not be like me, but everyone has had moments in their life where they wasted their time on the wrong thing. I had some of my friends who spent the majority of their freshman year partying and hanging out. 
 
 The usual thought process was like this. I'm meeting new people, therefore I'm networking, which means I'm gaining leverage for my career, therefore I'm working, and therefore I’m not wasting time. They are stubborn that this is the case until they get multiple F’s and have to repeat a whole year.
 
