@@ -19,7 +19,7 @@ The source code of this website is open source and is released under the [MIT Li
 
 ## Content
 
-Please note that the content, including blog posts, images, and other non-code elements on this website, is not covered by the MIT License but can be reused by other content creators provided they give appropriate citation.
+Please note that the content, including blog posts, images, and other non-code elements on this website, is not covered by the MIT License but can be reused by other content creators provided they give appropriate citation wherever needed.
 
 ## Disclaimer
 
@@ -27,6 +27,6 @@ The content provided on this website, including blog posts, images, and other no
 
 **Important:** Do not use the information from this website as a sole basis for making serious financial, medical, or other critical legal decisions. Always consult with qualified experts or professionals in the relevant fields before making such decisions.
 
-While we strive to provide accurate and reliable information, we make no warranties or representations regarding the accuracy, completeness, or suitability of the content for any specific purpose. The use of this information is at your own risk.
+While I strive to provide accurate and reliable information, I make no warranties or representations regarding the accuracy, completeness, or suitability of the content for any specific purpose. The use of this information is at your own risk.
 
 For any specific or critical concerns, please seek guidance and advice from qualified professionals in the respective fields.
