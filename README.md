@@ -1,10 +1,8 @@
 # My personal site
 
-This is my personal website built with Hugo, an open-source static site generator which also acts as a CMS (Content Management System).
+Welcome to my personal website! This website is built using Hugo, an open-source static site generator that also serves as a Content Management System (CMS). 
 
-The website is built with the intention of showcasing any projects or ideas I might want to share with the world in the form of blogs, and may contain links to affiliate products. 
-
-The articles are written in Markdown, which then get rendered to HTML with the help of Hugo. The theme used for the website is called "PaperMod", which you can check [here](https://github.com/adityatelange/hugo-PaperMod/).
+Its primary purpose is to showcase projects, ideas, and blog posts, and it may include links to affiliate products.
 
 ## Tools used:
 - [Hugo](https://github.com/gohugoio/hugo) as the website framework and Content Management System (CMS)
@@ -13,20 +11,14 @@ The articles are written in Markdown, which then get rendered to HTML with the h
 
 ## Licensing Information
 
-### MIT License
-
 The source code of this website is open source and is released under the [MIT License](LICENSE). For details about the MIT License and its provisions as they apply to the source code, please refer to the full license text available in this [file](LICENSE).
 
-## Content
+## Content Usage and Disclaimer
 
-Please note that the content, including blog posts, images, and other non-code elements on this website, is not covered by the MIT License but can be reused by other content creators provided they give appropriate citation wherever needed.
+**Content Usage:**
+Please note that the content published on my website is not covered by the MIT License. However, you're welcome to reuse it in your work, provided that you kindly include the original link in your citation. Your support in linking to the original URL helps me track usage and ensures that readers have access to the source material. Thank you for respecting these terms.
 
-## Disclaimer
+**Disclaimer:**
+Always consult qualified experts or professionals in the relevant fields before making serious financial, medical, or other critical legal decisions. The content on this webiste is for informational and educational purposes only and should not be the used as the sole basis for such decisions.
 
-The content provided on this website, including blog posts, images, and other non-code elements, is intended for informational and educational purposes only. It is not intended to provide professional advice, including but not limited to financial, medical, or legal advice.
-
-**Important:** Do not use the information from this website as a sole basis for making serious financial, medical, or other critical legal decisions. Always consult with qualified experts or professionals in the relevant fields before making such decisions.
-
-While I strive to provide accurate and reliable information, I make no warranties or representations regarding the accuracy, completeness, or suitability of the content for any specific purpose. The use of this information is at your own risk.
-
-For any specific or critical concerns, please seek guidance and advice from qualified professionals in the respective fields.
+While I strive for accuracy, I make no warranties or representations regarding the content's accuracy, completeness, or suitability for specific purposes. Use this information at your own risk.
