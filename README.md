@@ -19,6 +19,6 @@ The source code of this website is open source and is released under the [MIT Li
 Please note that the content published on my website is not covered by the MIT License. However, you're welcome to reuse it in your work, provided that you kindly include the original link in your citation. Your support in linking to the original URL helps me track usage and ensures that readers have access to the source material. Thank you for respecting these terms.
 
 **Disclaimer:**
-Always consult qualified experts or professionals in the relevant fields before making serious financial, medical, or other critical legal decisions. The content on this webiste is for informational and educational purposes only and should not be the used as the sole basis for such decisions.
+Always consult qualified experts or professionals in the relevant fields before making serious financial, medical, or other critical legal decisions. The content on this webiste is for informational and educational purposes only and should not be the used as the sole basis for making such decisions.
 
 While I strive for accuracy, I make no warranties or representations regarding the content's accuracy, completeness, or suitability for specific purposes. Use this information at your own risk.
