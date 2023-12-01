@@ -8,7 +8,7 @@ tocopen: true
 ---
 
 ## Welcome
-Welcome to my website. My name is Arsh Jameel, but you can simply call me Arsh. I am currently pursuing an undergraduate degree at Carleton University in Systems and Computer Engineering. 
+Welcome to my website. My name is Arsh Jameel, but you can simply call me Arsh. I am currently pursuing an undergraduate degree at Carleton University in Computer Systems Engineering. 
 
 I am a programmer, reader, writer, and an athlete. No I dont run marathons, but I do care about my physical and mental health.
 
