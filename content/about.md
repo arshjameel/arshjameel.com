@@ -10,9 +10,9 @@ tocopen: true
 ## Welcome
 Welcome to my website. My name is Arsh Jameel, but you can simply call me Arsh. I am currently pursuing an undergraduate degree at Carleton University in Computer Systems Engineering. 
 
-I am a programmer, reader, writer, and an athlete. No I dont run marathons, but I do care about my physical and mental health.
+I am a programmer, reader, writer, and an athlete. No, I dont run marathons, but I do care about my physical and mental health.
 
-This blog is meant to be an extension to who I am. Here you can find my thoughts on technology and self-improvement or any other topic that interests me.
+This blog is meant to be an extension of who I am. Here, you can find my thoughts on technology, self-improvement, or any other topic that interests me.
 
 ## Connect
 I do not yet have a newsletter, but if you ever want to get in touch with me, or just want to get to know me better, please follow my socials linked below.
