@@ -13,4 +13,4 @@ For more information about me or the content I post, please visit this [page](ht
 
 ## Licensing Information
 
-The source code of this website is open source and is released under the [GNU General Public License version 3.0 (GPL-3.0)](LICENSE). For details about the GPL-3.0 and its provisions as they apply to the source code, please refer to the full license text available in this [file](LICENSE).
+The source code of this website is open source and is released under the GNU General Public License version 3.0 [(GPL-3.0)](LICENSE). For details about the GPL-3.0 and its provisions as they apply to the source code, please refer to the full license text available in this [file](LICENSE).
