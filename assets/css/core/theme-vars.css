@@ -21,8 +21,8 @@
 .dark {
     --theme: rgb(40, 40, 40); /* bg0 */
     --entry: rgb(60, 56, 54); /* bg1 */
-    --head: rgb(215, 153, 33); /* yellow1 */
-    --primary: rgb(214, 93, 14); /* orange1 */
+    --head: rgb(254, 128, 25); /* orange2 */
+    --primary: rgb(254, 128, 25); /* orange2 */
     --secondary: rgb(215, 153, 33); /* yellow1 */
     --tertiary: rgb(102, 92, 84); /* bg3 */
     --content: rgb(251, 241, 199); /* fg0 */
