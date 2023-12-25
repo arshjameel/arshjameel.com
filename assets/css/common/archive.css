@@ -20,7 +20,7 @@
 .archive-month-header {
     margin: 25px 0;
     width: 200px;
-    color: var(--head); /* primary */
+    color: var(--primary); /* head */
 }
 
 .archive-month:not(:last-of-type) {
