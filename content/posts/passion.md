@@ -28,9 +28,9 @@ Why even spend so much time and effort when you live in a world where people can
 
 When you have passion and a desire for competition, you can persevere and outperform the bottom feeders, and as a result, positively contribute to this changing world. [3]
 
-# 
-# 
-# 
+# &nbsp;
+# &nbsp;
+# &nbsp;
 
 **Notes**
 
@@ -40,7 +40,7 @@ When you have passion and a desire for competition, you can persevere and outper
 
 [3] We have seen a lot of new technology over the last couple of decades, and although it is very exciting, sometimes it can get a little scary, especially when you have a small minority of people behind closed doors making decisions for the large majority. Protests and status games can only help you so much. Only when you decide to compete can you truly ride the bandwagon of change without fearing for your safety. It is for this reason it can be necessary to actively contribute to the market instead of just being a slave to someone else's vision of the world.
 
-# 
+# &nbsp;
 
 **Thanks** to [Yazan Moghrabi](https://www.instagram.com/yazan__moghrabi/) for suggestions and for reading drafts of this.
 
