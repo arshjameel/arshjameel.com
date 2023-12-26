@@ -27,7 +27,7 @@ Unfortunately, many in STEM fields lack passion, making their dreams small and r
 
 Why even spend so much time and effort when you live in a world where people can be rich just by dancing on TikTok? Alternatively, why work on a hobby for free when you can monetize it and feed your family? 
 
-When you have passion and a desire for competition, you can persevere and outperform the bottom feeders, and as a result, positively contribute to this changing world. [3]
+When you have passion and a desire for competition, you can persevere and outperform others, and as a result, positively contribute to this changing world. [3]
 
 # &nbsp;
 
