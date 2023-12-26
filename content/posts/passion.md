@@ -16,16 +16,18 @@ But what if that is not true? What if what you sacrificed did matter? And what i
 
 The latter may be the obvious choice, but it is not possible until one has a passion for the work. Group B not only lacks passion, but the self-belief to bet a decade on an uncertain future as well. This is where you have group C. 
 
-If groups A and B are two extremes in a spectrum, then group C is at the dead center. They realize that money is important and that there is nothing wrong with monetizing their hobbies, but also understand that it is controlled by external factors such as happiness, which can not be sacrificed. <a href="#[1] ">[1]</a>
+If groups A and B are two extremes in a spectrum, then group C is at the dead center. They realize that money is important and that there is nothing wrong with monetizing their hobbies, but also understand that it is controlled by external factors such as happiness, which can not be sacrificed. [1]
 
 As a result, they will naturally outperform groups A and B and leave them in the dust, because even if they are broke for 10 years, they will continue to persevere as long as they are happy and working on their passion, and when it is time to reap the benefits, society will reward them handsomely for their work. 
 
 Amazon was founded in 1994, Tesla was founded in 2003, and OpenAI was founded in 2015. Bezos, Musk, and Altman spent decades on their companies before they became rich and famous. They had belief in themselves to bet on an uncertain future for an uncertain amount of time. That’s passion. 
 
-Unfortunately, many in STEM fields lack passion, making their dreams small and repulsive. The world is changing rapidly and we need people with ideas that are larger than life. <a href="#[2] ">[2]</a>
+Unfortunately, many in STEM fields lack passion, making their dreams small and repulsive. The world is changing rapidly and we need people with ideas that are larger than life. [2]
+
 Why even spend so much time and effort when you live in a world where people can be rich just by dancing on TikTok? Alternatively, why work on a hobby for free when you can monetize it and feed your family? 
 
-When you have passion and a desire for competition, you can persevere and outperform the bottom feeders, and as a result, positively contribute to this changing world. <a href="#[3] ">[3]</a>
+When you have passion and a desire for competition, you can persevere and outperform the bottom feeders, and as a result, positively contribute to this changing world. [3]
+
 # 
 #
 #
