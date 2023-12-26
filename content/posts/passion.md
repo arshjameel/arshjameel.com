@@ -31,9 +31,6 @@ When you have passion and a desire for competition, you can persevere and outper
 # 
 # 
 # 
-# 
-# 
-# 
 
 **Notes**
 
@@ -43,6 +40,8 @@ When you have passion and a desire for competition, you can persevere and outper
 
 [3] We have seen a lot of new technology over the last couple of decades, and although it is very exciting, sometimes it can get a little scary, especially when you have a small minority of people behind closed doors making decisions for the large majority. Protests and status games can only help you so much. Only when you decide to compete can you truly ride the bandwagon of change without fearing for your safety. It is for this reason it can be necessary to actively contribute to the market instead of just being a slave to someone else's vision of the world.
 
----
+# 
 
 **Thanks** to [Yazan Moghrabi](https://www.instagram.com/yazan__moghrabi/) for suggestions and for reading drafts of this.
+
+---
