@@ -27,6 +27,6 @@ You don’t need to beautify your notes, you don’t even need notes. You can st
 
 &nbsp;
 
-**Thanks** to [Yazan Moghrabi](https://www.instagram.com/yazan__moghrabi/) for suggestions and for reading drafts of this.
+**Thanks** to Yazan Moghrabi for suggestions and for reading drafts of this.
 
 ---

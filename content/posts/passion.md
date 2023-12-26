@@ -41,6 +41,6 @@ When you have passion and a desire for competition, you can persevere and outper
 
 &nbsp;
 
-**Thanks** to [Yazan Moghrabi](https://www.instagram.com/yazan__moghrabi/) for suggestions and for reading drafts of this.
+**Thanks** to Yazan Moghrabi for suggestions and for reading drafts of this.
 
 ---
