@@ -28,10 +28,9 @@ Why even spend so much time and effort when you live in a world where people can
 
 When you have passion and a desire for competition, you can persevere and outperform the bottom feeders, and as a result, positively contribute to this changing world. [[3]](#[3])
 
-<br />
-<br />
-<br />
-
+\
+\
+\
 **Notes**
 
 [1] I want to clarify that seeking money and happiness are two different goals. One does not necessarily lead to another. Group A runs away from money in search of happiness, but since food, water, and shelter have a price tag, all they get is misery. Since group B sacrifices happiness for money, they hate their job, which in turn makes them hate their life. Group C prioritizes both goals and as a result, can make them work in parallel to each other. When you have a job that makes you happy, it feels like play. No one likes working 24x7, but wish they could play and enjoy all the time. When you have work that feels like play, you can't help but outperform the one that does the bare minimum for a simple paycheck.
