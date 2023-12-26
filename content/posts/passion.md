@@ -29,8 +29,8 @@ Why even spend so much time and effort when you live in a world where people can
 When you have passion and a desire for competition, you can persevere and outperform the bottom feeders, and as a result, positively contribute to this changing world. [3]
 
 # 
-#
-#
+# 
+# 
 
 **Notes**
 
