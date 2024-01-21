@@ -2,6 +2,7 @@
 title: "How to Stop Overthinking"
 date: 2023-11-29T22:16:45-05:00
 draft: false
+showtoc: false
 ---
 
 As a person who tends to overthink a lot, believe me when I say most of your fears will never happen in life. They are just excuses that come from your insecurities, and your inability to reason correctly. Success comes from laser-like focus, and there’s no distraction greater than your own thoughts. 
@@ -24,6 +25,8 @@ The less voices there are outside your mind, the less there are voices inside it
 
 You don’t need to beautify your notes, you don’t even need notes. You can still ace your exams if you can just understand the lecturer to a good enough magnitude. In fact, that is exactly what I do nowadays in my classes. Similarly, you don’t need to network to get leverage. You just need to get good and show people that you’re good, and if you’re good enough, they will want to be around you all the time.
 
----
+&nbsp;
 
-**Thanks** to [Yazan Moghrabi](https://www.instagram.com/yazan__moghrabi/) for suggestions and for reading drafts of this.
+**Thanks** to Yazan Moghrabi for suggestions and for reading drafts of this.
+
+---
