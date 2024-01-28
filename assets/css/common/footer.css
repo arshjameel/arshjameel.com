@@ -40,7 +40,8 @@
     width: 42px;
     height: 42px;
     padding: 12px;
-    border-radius: 64px;
+    /* border-radius: 64px; */
+    border-radius: var(--radius);
     transition: visibility 0.5s, opacity 0.8s linear;
 }
 
@@ -49,10 +50,10 @@
     filter: drop-shadow(0px 0px 0px var(--theme));
 }
 
-.footer a:hover,
+/* .footer a:hover,
 .top-link:hover {
     color: var(--primary);
-}
+} */
 
 .top-link:focus,
 #theme-toggle:focus {
