@@ -15,9 +15,12 @@ I am a programmer, reader, writer, and an athlete. No, I dont run marathons, but
 This blog is meant to be an extension of who I am. Here, you can find my thoughts on technology, self-improvement, or any other topic that interests me.
 
 ## Connect
-I do not yet have a newsletter, but if you ever want to get in touch with me, or just want to get to know me better, please follow my socials linked below.
 
-[Twitter](https://twitter.com/ArshJameel_/) | [Instagram](https://www.instagram.com/arshjameel_/) | [GitHub](https://github.com/arshjameel)
+Subscribe to my [RSS](/index.xml/) feed to stay up to date with my articles, and follow me on my socials linked below to get in touch with me.
+
+- [Twitter](https://twitter.com/ArshJameel_/)
+- [Instagram](https://www.instagram.com/arshjameel_/)
+- [GitHub](https://github.com/arshjameel)
 
 ## Terms of Use
 Please note that you're welcome to reuse my content in your work, provided that you kindly include the original link in your citation. Your support in linking to the original URL helps me track usage and ensures that readers have access to the source material. Thank you for respecting these terms.
