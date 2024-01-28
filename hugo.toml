@@ -12,25 +12,45 @@ home = [ "HTML", "RSS", "JSON" ]
 
 [params]
     ShowReadingTime = true
-    ShowShareButtons = false
     ShowPostNavLinks = true
     ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
-    ShowWordCount = false
     ShowRssButtonInSectionTermList = true
+    ShowFullTextinRSS = true
     UseHugoToc = true
     disableSpecial1stPost = true
+    showtoc = true
+    tocopen = true
+
+    ShowShareButtons = false
     disableScrollToTop = false
     comments = false
     hidemeta = false
     hideSummary = false
-    showtoc = true
-    tocopen = true
-    
+    ShowWordCount = false
+
     [params.homeInfoParams]
         Title = 'Welcome!👋'
-        content = "My name is Arsh Jameel, and this is my blog. You can check out my articles on technology and self-improvement and follow me on my socials below."
-        content2 = "[Twitter](https://twitter.com/ArshJameel_/) | [Instagram](https://www.instagram.com/arshjameel_/) | [GitHub](https://github.com/arshjameel)"
+        content = """My name is Arsh Jameel, and this is my blog. 
+            You can check out my articles on technology and self-improvement 
+            and follow me on my socials below."""
+
+    [[params.socialIcons]]
+        name = "twitter"
+        url = "https://twitter.com/ArshJameel_/"
+        weight = 10
+    [[params.socialIcons]]
+        name = "instagram"
+        url = "https://www.instagram.com/arshjameel_/"
+        weight = 10
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/arshjameel"
+        weight = 10
+    [[params.socialIcons]]
+        name = "rss"
+        url = "index.xml"
+        weight = 10
 
 [menu]
     [[menu.main]]
