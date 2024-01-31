@@ -2,7 +2,6 @@
 title: "Passion and Perseverance"
 date: 2023-12-25T18:07:13-05:00
 draft: false
-showtoc: false
 ---
 
 When it comes to the mindset required for making money, people can usually be grouped into three categories. Let's say we have groups A, B, and C. Group A are those that say money does not matter or that it is bad to want a lot of money. Not only are these people hypocrites, but they are the stingiest of the rest. 

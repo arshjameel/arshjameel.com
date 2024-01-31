@@ -2,7 +2,6 @@
 title: "How to Stop Overthinking"
 date: 2023-11-29T22:16:45-05:00
 draft: false
-showtoc: false
 ---
 
 As a person who tends to overthink a lot, believe me when I say most of your fears will never happen in life. They are just excuses that come from your insecurities, and your inability to reason correctly. Success comes from laser-like focus, and there’s no distraction greater than your own thoughts. 

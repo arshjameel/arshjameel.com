@@ -2,7 +2,6 @@
 title: "The Courage to Be a Fool"
 date: 2024-01-21T10:55:45-05:00
 draft: false
-showtoc: false
 ---
 
 To be a fool is to appear intellectually inferior to others and make bad judgments, to the extent people around you cringe. However, some people are quick to judge who the fools are among them. They call those taking risks foolish until their gamble pays off. Suddenly they go from being foolish to being geniuses.  

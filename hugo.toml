@@ -19,7 +19,7 @@ home = [ "HTML", "RSS", "JSON" ]
     ShowFullTextinRSS = true
     UseHugoToc = true
     disableSpecial1stPost = true
-    showtoc = true
+    showtoc = false
     tocopen = true
 
     ShowShareButtons = false
