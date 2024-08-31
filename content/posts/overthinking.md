@@ -1,6 +1,7 @@
 ---
 title: "How to Stop Overthinking"
 date: 2023-11-29T22:16:45-05:00
+tags: ["Essays"]
 draft: false
 ---
 

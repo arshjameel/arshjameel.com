@@ -32,6 +32,9 @@
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
         <span>{{ .subtitle | markdownify }}</span>
+        <!-- <br>
+        <br>
+        <span>{{ .subtitle2 | markdownify }}</span> --> <!-- uncomment this to add an extra line of subtitle -->
         {{- partial "social_icons.html" site.Params.socialIcons -}}
 
         {{- with .buttons }}

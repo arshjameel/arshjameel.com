@@ -1,6 +1,7 @@
 ---
 title: "Passion and Perseverance"
 date: 2023-12-25T18:07:13-05:00
+tags: ["Essays"]
 draft: false
 ---
 

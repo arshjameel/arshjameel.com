@@ -1,6 +1,7 @@
 ---
 title: "The Courage to Be a Fool"
 date: 2024-01-21T10:55:45-05:00
+tags: ["Essays"]
 draft: false
 ---
 

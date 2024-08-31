@@ -29,23 +29,43 @@ home = [ "HTML", "RSS", "JSON" ]
     hideSummary = false
     ShowWordCount = false
 
-    [params.homeInfoParams]
-        Title = 'Welcome!👋'
-        content = """My name is Arsh Jameel, and this is my blog. 
-            You can check out my articles on technology and self-improvement 
-            and follow me on my socials below."""
+    [params.profileMode]
+        enabled = true
+        title = "Arsh Jameel"
+        subtitle = "Computer Systems '26 | Carleton University"
+        # subtitle2 = "xyz"
+        #imageUrl = "/images/grasshopper.jpg/"
+        #imageTitle = "grasshopper"
+        imageWidth = 150
+        imageHeight = 150
 
-    [[params.socialIcons]]
-        name = "twitter"
-        url = "https://twitter.com/ArshJameel_/"
-        weight = 10
-    [[params.socialIcons]]
-        name = "instagram"
-        url = "https://www.instagram.com/arshjameel_/"
-        weight = 10
+        [[params.profileMode.buttons]]
+            name = "Essays"
+            url = "tags/essays"
+
+        [[params.profileMode.buttons]]
+            name = "Blogs"
+            url = "tags/blogs"
+            
+        [[params.profileMode.buttons]]
+            name = "Projects"
+            url = "/projects"
+
+        [[params.profileMode.buttons]]
+            name = "About"
+            url = "/about"
+
     [[params.socialIcons]]
         name = "github"
         url = "https://github.com/arshjameel"
+        weight = 10
+    [[params.socialIcons]]
+        name = "x"
+        url = "https://twitter.com/ArshJameel_/"
+        weight = 10
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/"
         weight = 10
     [[params.socialIcons]]
         name = "rss"
@@ -59,12 +79,12 @@ home = [ "HTML", "RSS", "JSON" ]
         url = '/archive/'
         weight = '10'
     [[menu.main]]
-        name = 'Search'
-        identifier = 'Search'
-        url = '/search/'
-        weight = '20'
-    [[menu.main]]
         name = 'About'
         identifier = 'About'
         url = '/about/'
+        weight = '20'
+    [[menu.main]]
+        name = 'Explore'
+        identifier = 'Search'
+        url = '/search/'
         weight = '30'
