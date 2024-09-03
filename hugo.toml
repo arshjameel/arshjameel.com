@@ -36,8 +36,8 @@ home = [ "HTML", "RSS", "JSON" ]
         # subtitle2 = "xyz"
         imageUrl = "/grasshopper.png/"
         imageTitle = "grasshopper"
-        imageWidth = 150
-        imageHeight = 150
+        imageWidth = 165
+        imageHeight = 165
 
         [[params.profileMode.buttons]]
             name = "Essays"
