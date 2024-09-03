@@ -26,7 +26,7 @@
 }
 
 .button {
-    background: var(--tertiary);
+    background: var(--entry);
     border-radius: var(--radius);
     margin: 8px;
     padding: 6px;
