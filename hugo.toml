@@ -74,17 +74,17 @@ home = [ "HTML", "RSS", "JSON" ]
 
 [menu]
     [[menu.main]]
-        name = 'Archive'
-        identifier = 'Archive'
-        url = '/archive/'
-        weight = '10'
-    [[menu.main]]
         name = 'About'
         identifier = 'About'
         url = '/about/'
+        weight = '10'
+    [[menu.main]]
+        name = 'Archive'
+        identifier = 'Archive'
+        url = '/archive/'
         weight = '20'
     [[menu.main]]
-        name = 'Explore'
+        name = 'Search'
         identifier = 'Search'
         url = '/search/'
         weight = '30'
