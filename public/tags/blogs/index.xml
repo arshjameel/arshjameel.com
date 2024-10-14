@@ -6,7 +6,34 @@
     <description>Recent content in Blogs on Arsh Jameel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2024 20:15:55 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 08:07:31 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog #5</title>
+      <link>http://localhost:1313/posts/blog5/</link>
+      <pubDate>Mon, 14 Oct 2024 08:07:31 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog5/</guid>
+      <description>&lt;p&gt;Happy Monday!&lt;/p&gt;
+&lt;p&gt;Welcome to another week. We have two midterms and two assignments, back to back. So fun!&lt;/p&gt;
+&lt;p&gt;Putting that aside, the past week has been really interesting so far. We are learning about operating systems, and despite my medical leave, I&amp;rsquo;ve been able to catch up fairly well. I can&amp;rsquo;t promise that I am perfect in the theory, but it has been interesting to know about how computer systems really work from the inside. The midterm syllabus is fairly simple as well, with the content going over what interrupts are, and how they organize the different processes in an operating system via CPU scheduling, and how you can create (or terminate) more of them. There&amp;rsquo;s also another midterm for an introductory course to real-time systems which teaches us embedded programming.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Happy Monday!</p>
+<p>Welcome to another week. We have two midterms and two assignments, back to back. So fun!</p>
+<p>Putting that aside, the past week has been really interesting so far. We are learning about operating systems, and despite my medical leave, I&rsquo;ve been able to catch up fairly well. I can&rsquo;t promise that I am perfect in the theory, but it has been interesting to know about how computer systems really work from the inside. The midterm syllabus is fairly simple as well, with the content going over what interrupts are, and how they organize the different processes in an operating system via CPU scheduling, and how you can create (or terminate) more of them. There&rsquo;s also another midterm for an introductory course to real-time systems which teaches us embedded programming.</p>
+<p>These are by no means very difficult courses, but they help to satisfy the curiosity of anyone wanting to learn how computer systems operate at their most fundamental levels. Not to mention, I found an amazing person as my new teammate for my operating systems course, and I am excited to work with him on future assignments after my midterm exams. So far, the past week has been pretty good, and it makes me optimistic for this one.</p>
+<hr>
+<p>My plans for this week are as follows:</p>
+<ul>
+<li>Finish off all midterms</li>
+<li>Finish of all assignments/deliverables</li>
+<li>Start practicing webdev again</li>
+<li>Start some projects in the C language to further my understanding and fluency.</li>
+<li>Start working on future assignments.</li>
+</ul>
+<p>All in all, it is going to be a pretty busy week, and I hope whoever is reading this is as excited to welcome it, as I am :D</p>
+<hr>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Blog #4</title>
       <link>http://localhost:1313/posts/blog4/</link>

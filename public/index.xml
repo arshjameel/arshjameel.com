@@ -6,7 +6,28 @@
     <description>Recent content on Arsh Jameel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2024 20:15:55 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 08:07:31 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog #5</title>
+      <link>http://localhost:1313/posts/blog5/</link>
+      <pubDate>Mon, 14 Oct 2024 08:07:31 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog5/</guid>
+      <description>&lt;p&gt;Happy Monday!&lt;/p&gt;
+&lt;p&gt;Welcome to another week. We have two midterms and two assignments, back to back. So fun!&lt;/p&gt;
+&lt;p&gt;Putting that aside, the past week has been really interesting so far. We are learning about Operating Systems, and despite my medical leave, I&amp;rsquo;ve been able to catch up fairly well. I can&amp;rsquo;t promise if I am perfect on the theory, but it has been interesting to know about how computer systems really work from the inside. The midterm syllabus is fairly simple as well, with the content going over what interrupts are, and how they organize the different processes in an operating system via CPU scheduling, and how you can create (or terminate) more of them. There&amp;rsquo;s also another midterm for an introductory course to real-time systems which teaches us embedded programming.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Happy Monday!</p>
+<p>Welcome to another week. We have two midterms and two assignments, back to back. So fun!</p>
+<p>Putting that aside, the past week has been really interesting so far. We are learning about Operating Systems, and despite my medical leave, I&rsquo;ve been able to catch up fairly well. I can&rsquo;t promise if I am perfect on the theory, but it has been interesting to know about how computer systems really work from the inside. The midterm syllabus is fairly simple as well, with the content going over what interrupts are, and how they organize the different processes in an operating system via CPU scheduling, and how you can create (or terminate) more of them. There&rsquo;s also another midterm for an introductory course to real-time systems which teaches us embedded programming.</p>
+<p>These are by no means very difficult courses, but they help to satisfy the curiosities of anyone wanting to learn how a computer systems operates at their most fundamental levels. Not to mention I found an amazing person as my new teammate for my operating systems course. As I explained in my (last blog post)[posts/blog4.md]</p>
+<hr>
+<p>My plans for this week are as follows:</p>
+<ul>
+<li></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Blog #4</title>
       <link>http://localhost:1313/posts/blog4/</link>
@@ -14,12 +35,15 @@
       
       <guid>http://localhost:1313/posts/blog4/</guid>
       <description>&lt;p&gt;Hello Hello, and a very happy Monday!&lt;/p&gt;
-&lt;p&gt;It has been so long since I have written my last blog. So, where have I been? Did I forget about my website? Did I get lazy broke my promise of writing a new blog each week? No certainly not.&lt;/p&gt;
-&lt;p&gt;To start off with, I have finally started attending my classes in-person after having to stay indoors for basically all of September. As such there was a ton of work to catch up to, to transition back to &amp;ldquo;normalcy&amp;rdquo;. I knew I wouldn&amp;rsquo;t get some time off for myself as a result, but I never expected I would be working non stop for nearly an entire month. Things are still a little hectic, but at least I have some time to start writing blog posts again. So let&amp;rsquo;s get to it!&lt;/p&gt;</description>
+&lt;p&gt;It has been so long since I have written my last blog. So, where have I been? Did I forget about my website? Did I get lazy and break my promise of writing a new blog each week? No, certainly not.&lt;/p&gt;
+&lt;p&gt;To start off with, I have finally started attending my classes in person after having to stay indoors for basically all of September. As such there was a ton of work to catch up to, to transition back to &amp;ldquo;normalcy&amp;rdquo;. I knew I wouldn&amp;rsquo;t get any time off for myself as a result, but I never expected I would be working non-stop for nearly an entire month. Things are still a little hectic, but at least I have some time to start writing blog posts again. So let&amp;rsquo;s get to it!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Hello Hello, and a very happy Monday!</p>
-<p>It has been so long since I have written my last blog. So, where have I been? Did I forget about my website? Did I get lazy broke my promise of writing a new blog each week? No certainly not.</p>
-<p>To start off with, I have finally started attending my classes in-person after having to stay indoors for basically all of September. As such there was a ton of work to catch up to, to transition back to &ldquo;normalcy&rdquo;. I knew I wouldn&rsquo;t get some time off for myself as a result, but I never expected I would be working non stop for nearly an entire month. Things are still a little hectic, but at least I have some time to start writing blog posts again. So let&rsquo;s get to it!</p>
-<p>Firstly, the biggest thing that has been on my mind for the last month is this Networking event I am planning on attending this week. I dont have any real work experience, no notable personal projects, and I dont even have proper dress pants to go with my semi-formal outfit. In fact, I downloaded LinkedIn for the first time today while on the bus! I am so unprepared! However, this is exactly what is exciting me. Here is me, a dumb college student that knows nothing about the world, about to shake hands with seasoned industry professionals. I may be a nobody, but my presence in this event alone will prove to be extremely beneficial to me as it might expose me to coorporate culture for the first time. Who knows, the next time I attend an event like this, my familiarity with how these things work might help me communicate better and actually make networks that stick.</p>
+<p>It has been so long since I have written my last blog. So, where have I been? Did I forget about my website? Did I get lazy and break my promise of writing a new blog each week? No, certainly not.</p>
+<p>To start off with, I have finally started attending my classes in person after having to stay indoors for basically all of September. As such there was a ton of work to catch up to, to transition back to &ldquo;normalcy&rdquo;. I knew I wouldn&rsquo;t get any time off for myself as a result, but I never expected I would be working non-stop for nearly an entire month. Things are still a little hectic, but at least I have some time to start writing blog posts again. So let&rsquo;s get to it!</p>
+<p>Firstly, the biggest thing that has been on my mind for the last month is this networking event I am planning on attending this week. I don&rsquo;t have any real work experience, no notable personal projects, and I don&rsquo;t even have proper dress pants to go with my semi-formal outfit. In fact, I downloaded LinkedIn for the first time today while on the bus! I am so unprepared! However, this is exactly what excites me. Here is me, a dumb college student who knows nothing about the world, about to shake hands with seasoned industry professionals. I may be a nobody, but my presence in this event alone will prove to be extremely beneficial to me as it will expose me to corporate culture for the first time. Who knows, the next time I attend an event like this, my familiarity with how these things work might help me communicate better and actually make networks that stick.</p>
+<p>Second on the list is obviously my academic work. There have been a ton of things I have experienced over the last week alone. Professors with an attitude, antisocial teammates that do not communicate properly, dealing with a falling out with said teammates and having to search for new people to team up with, catching up on coursework to prepare for upcoming midterms… it&rsquo;s… a lot. But, hopefully, once this networking event is gone out of the way, I can go all in on studying for any exams and assignments that might come my way in the next month.</p>
+<p>There is also obviously an elephant in the room. My progress with WebDev. How&rsquo;s that going? Well as much as it is embarrassing to admit, I have yet again failed to continue working on my WebDev journey, and might not make any promises to reverse that for the next two weeks so I can prepare for the midterms I talked about earlier. However, I shall still make efforts to get back into it. If there&rsquo;s one thing I learned while preparing for this week&rsquo;s networking event, is that I am very behind most of my peers, and I do not plan on keeping things that way. There are a lot of things different about this semester, I can feel it. I just need a breather, and then I can make a comeback.</p>
+<p>I do apologize if this week&rsquo;s blog post is a little different than usual, but I promise we&rsquo;ll be back to normal next week. So stay tuned! ;)</p>
 ]]></content:encoded>
     </item>
     
