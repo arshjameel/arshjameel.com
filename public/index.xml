@@ -6,7 +6,31 @@
     <description>Recent content on Arsh Jameel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2024 08:07:31 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Oct 2024 20:08:06 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog #6</title>
+      <link>http://localhost:1313/posts/blog6/</link>
+      <pubDate>Sun, 20 Oct 2024 20:08:06 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog6/</guid>
+      <description>&lt;p&gt;Happy Sunday!&lt;/p&gt;
+&lt;p&gt;Reading week is finally here, and as always this week has been super hectic. As mentioned in the &lt;a href=&#34;../blog5&#34;&gt;previous blog&lt;/a&gt;, we&amp;rsquo;ve had two midterms and two assignments. I also had a lab session which I had to miss because of the extremely disorganized exam schedule given to us. But, I won&amp;rsquo;t complain. The week is finally over and it&amp;rsquo;s time to relax and catch up to any backlogs and strengthen academic foundations.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Happy Sunday!</p>
+<p>Reading week is finally here, and as always this week has been super hectic. As mentioned in the <a href="../blog5">previous blog</a>, we&rsquo;ve had two midterms and two assignments. I also had a lab session which I had to miss because of the extremely disorganized exam schedule given to us. But, I won&rsquo;t complain. The week is finally over and it&rsquo;s time to relax and catch up to any backlogs and strengthen academic foundations.</p>
+<p>I have also been revising HTML/CSS fundamentals over the last 2 days and have been banging my head against the wall trying to make sense of <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox">Flexbox</a>. I have finally reached a point where I am confident with the fundamentals, which means I can now tackle the biggest hurdle of my life &ndash; JavaScript.</p>
+<p>I&rsquo;ve been trying to practice webdev for a long time so I&rsquo;m happy that I finally have free time to do so. However, we&rsquo;re gonna take our time with it and not rush things as I also have to focus on academic coursework as I mentioned earlier.</p>
+<hr>
+<p>This week will be really pivotal for me if I catch up to my backlogs; otherwise, I will have to continue struggling until the end of the semester. As such, here’s my plan for the following week:</p>
+<ul>
+<li>Read through lecture slides and assigned textbook for my operating systems course and also start the assignment given to me and my assigned partner for the same course.</li>
+<li>Go through lecture slides for any other course if needed and prepare for my midterms that are scheduled after reading week.</li>
+<li>And obviously, learn the basics of javascript</li>
+</ul>
+<p>Just because it&rsquo;s reading week it doesn&rsquo;t mean I have to start getting lenient on myself. This week is going to be really busy just like any other week, and I am excited to welcome it!</p>
+<hr>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Blog #5</title>
       <link>http://localhost:1313/posts/blog5/</link>
@@ -15,16 +39,22 @@
       <guid>http://localhost:1313/posts/blog5/</guid>
       <description>&lt;p&gt;Happy Monday!&lt;/p&gt;
 &lt;p&gt;Welcome to another week. We have two midterms and two assignments, back to back. So fun!&lt;/p&gt;
-&lt;p&gt;Putting that aside, the past week has been really interesting so far. We are learning about Operating Systems, and despite my medical leave, I&amp;rsquo;ve been able to catch up fairly well. I can&amp;rsquo;t promise if I am perfect on the theory, but it has been interesting to know about how computer systems really work from the inside. The midterm syllabus is fairly simple as well, with the content going over what interrupts are, and how they organize the different processes in an operating system via CPU scheduling, and how you can create (or terminate) more of them. There&amp;rsquo;s also another midterm for an introductory course to real-time systems which teaches us embedded programming.&lt;/p&gt;</description>
+&lt;p&gt;Putting that aside, the past week has been really interesting so far. We are learning about operating systems, and despite my medical leave, I&amp;rsquo;ve been able to catch up fairly well. I can&amp;rsquo;t promise that I am perfect in the theory, but it has been interesting to know about how computer systems really work from the inside. The midterm syllabus is fairly simple as well, with the content going over what interrupts are, and how they organize the different processes in an operating system via CPU scheduling, and how you can create (or terminate) more of them. There&amp;rsquo;s also another midterm for an introductory course to real-time systems which teaches us embedded programming.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Happy Monday!</p>
 <p>Welcome to another week. We have two midterms and two assignments, back to back. So fun!</p>
-<p>Putting that aside, the past week has been really interesting so far. We are learning about Operating Systems, and despite my medical leave, I&rsquo;ve been able to catch up fairly well. I can&rsquo;t promise if I am perfect on the theory, but it has been interesting to know about how computer systems really work from the inside. The midterm syllabus is fairly simple as well, with the content going over what interrupts are, and how they organize the different processes in an operating system via CPU scheduling, and how you can create (or terminate) more of them. There&rsquo;s also another midterm for an introductory course to real-time systems which teaches us embedded programming.</p>
-<p>These are by no means very difficult courses, but they help to satisfy the curiosities of anyone wanting to learn how a computer systems operates at their most fundamental levels. Not to mention I found an amazing person as my new teammate for my operating systems course. As I explained in my (last blog post)[posts/blog4.md]</p>
+<p>Putting that aside, the past week has been really interesting so far. We are learning about operating systems, and despite my medical leave, I&rsquo;ve been able to catch up fairly well. I can&rsquo;t promise that I am perfect in the theory, but it has been interesting to know about how computer systems really work from the inside. The midterm syllabus is fairly simple as well, with the content going over what interrupts are, and how they organize the different processes in an operating system via CPU scheduling, and how you can create (or terminate) more of them. There&rsquo;s also another midterm for an introductory course to real-time systems which teaches us embedded programming.</p>
+<p>These are by no means very difficult courses, but they help to satisfy the curiosity of anyone wanting to learn how computer systems operate at their most fundamental levels. Not to mention, I found an amazing person as my new teammate for my operating systems course, and I am excited to work with him on future assignments after my midterm exams. So far, the past week has been pretty good, and it makes me optimistic for this one.</p>
 <hr>
 <p>My plans for this week are as follows:</p>
 <ul>
-<li></li>
+<li>Finish off all midterms</li>
+<li>Finish of all assignments/deliverables</li>
+<li>Start practicing webdev again</li>
+<li>Start some projects in the C language to further my understanding and fluency.</li>
+<li>Start working on future assignments.</li>
 </ul>
+<p>All in all, it is going to be a pretty busy week, and I hope whoever is reading this is as excited to welcome it, as I am :D</p>
+<hr>
 ]]></content:encoded>
     </item>
     
