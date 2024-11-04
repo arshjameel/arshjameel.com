@@ -6,15 +6,47 @@
     <description>Recent content in Posts on Arsh Jameel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2024 20:08:06 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Nov 2024 19:13:54 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog6</title>
+      <title>Blog #7</title>
+      <link>http://localhost:1313/posts/blog7/</link>
+      <pubDate>Sun, 03 Nov 2024 19:13:54 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog7/</guid>
+      <description>&lt;p&gt;Happy Sunday!&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been a while since I wrote my last blog post. As much as I&amp;rsquo;d like to talk about all the great things I&amp;rsquo;ve done the last two weeks, reality is, the last two weeks haven&amp;rsquo;t really been that great to be honest.&lt;/p&gt;
+&lt;p&gt;The most recent assignment given to us in our Operating Systems course has pretty much destroyed whatever love I had for C. I have been trying to recreate the assignment in C++ in the last two days and so far it&amp;rsquo;s been a much better experience trying to write efficient and more maintainable code. At this point im just angry at myself for never using it sooner. There is of course a bit of a learning curve transitioning from C to C++, but from what little I have implemented has really impressed me.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Happy Sunday!</p>
+<p>It&rsquo;s been a while since I wrote my last blog post. As much as I&rsquo;d like to talk about all the great things I&rsquo;ve done the last two weeks, reality is, the last two weeks haven&rsquo;t really been that great to be honest.</p>
+<p>The most recent assignment given to us in our Operating Systems course has pretty much destroyed whatever love I had for C. I have been trying to recreate the assignment in C++ in the last two days and so far it&rsquo;s been a much better experience trying to write efficient and more maintainable code. At this point im just angry at myself for never using it sooner. There is of course a bit of a learning curve transitioning from C to C++, but from what little I have implemented has really impressed me.</p>
+<p>Our final assignment makes us use all of the concepts we have learned so far to implement a program that simulates a <a href="https://en.wikipedia.org/wiki/Scheduling_(computing)#Goals">process scheduler</a> which simply prints a certain output in a certain order based on the type of given input. In layman&rsquo;s terms, you can think of a scheduler as a traffic policeman that stands at an intersection and manages the flow of traffic to prevent congestion and maintain order.</p>
+<p>Depending on a number of factors, he decides which lane has more priority and is allowed to drive, and which lane doesn&rsquo;t. In the example of an operating system, the scheduler simply does the same job to decide which process is allowed to run and for how long before it must be interrupted to allow another process to run. Depending on how one way design their scheduler, there may simply be no interrupts and a process can be allowed to run to completion.</p>
+<p>and is making me consider working on our final assignment in C++.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Blog #6</title>
       <link>http://localhost:1313/posts/blog6/</link>
       <pubDate>Sun, 20 Oct 2024 20:08:06 -0400</pubDate>
       
       <guid>http://localhost:1313/posts/blog6/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <description>&lt;p&gt;Happy Sunday!&lt;/p&gt;
+&lt;p&gt;Reading week is finally here, and as always this week has been super hectic. As mentioned in the &lt;a href=&#34;../blog5&#34;&gt;previous blog&lt;/a&gt;, we&amp;rsquo;ve had two midterms and two assignments. I also had a lab session which I had to miss because of the extremely disorganized exam schedule given to us. But, I won&amp;rsquo;t complain. The week is finally over and it&amp;rsquo;s time to relax and catch up to any backlogs and strengthen academic foundations.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Happy Sunday!</p>
+<p>Reading week is finally here, and as always this week has been super hectic. As mentioned in the <a href="../blog5">previous blog</a>, we&rsquo;ve had two midterms and two assignments. I also had a lab session which I had to miss because of the extremely disorganized exam schedule given to us. But, I won&rsquo;t complain. The week is finally over and it&rsquo;s time to relax and catch up to any backlogs and strengthen academic foundations.</p>
+<p>I have also been revising HTML/CSS fundamentals over the last 2 days and have been banging my head against the wall trying to make sense of <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox">Flexbox</a>. I have finally reached a point where I am confident with the fundamentals, which means I can now tackle the biggest hurdle of my life &ndash; JavaScript.</p>
+<p>I&rsquo;ve been trying to practice webdev for a long time so I&rsquo;m happy that I finally have free time to do so. However, we&rsquo;re gonna take our time with it and not rush things as I also have to focus on academic coursework as I mentioned earlier.</p>
+<hr>
+<p>This week will be really pivotal for me if I catch up to my backlogs; otherwise, I will have to continue struggling until the end of the semester. As such, here’s my plan for the following week:</p>
+<ul>
+<li>Read through lecture slides and assigned textbook for my operating systems course and also start the assignment given to me and my assigned partner for the same course.</li>
+<li>Go through lecture slides for any other course if needed and prepare for my midterms that are scheduled after reading week.</li>
+<li>And obviously, learn the basics of javascript</li>
+</ul>
+<p>Just because it&rsquo;s reading week it doesn&rsquo;t mean I have to start getting lenient on myself. This week is going to be really busy just like any other week, and I am excited to welcome it!</p>
+<hr>
+]]></content:encoded>
     </item>
     
     <item>
