@@ -6,22 +6,34 @@
     <description>Recent content in Posts on Arsh Jameel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Nov 2024 19:13:54 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Nov 2024 09:21:16 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog #7</title>
+      <title>Blog #8</title>
+      <link>http://localhost:1313/posts/blog8/</link>
+      <pubDate>Mon, 18 Nov 2024 09:21:16 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog8/</guid>
+      <description>&lt;p&gt;Happy Monday!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Happy Monday!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Blog #7 | Transitioning to C&#43;&#43;</title>
       <link>http://localhost:1313/posts/blog7/</link>
       <pubDate>Sun, 03 Nov 2024 19:13:54 -0500</pubDate>
       
       <guid>http://localhost:1313/posts/blog7/</guid>
       <description>&lt;p&gt;Happy Sunday!&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s been a while since I wrote my last blog post. As much as I&amp;rsquo;d like to talk about all the great things I&amp;rsquo;ve done the last two weeks, reality is, the last two weeks haven&amp;rsquo;t really been that great to be honest.&lt;/p&gt;
-&lt;p&gt;The most recent assignment given to us in our Operating Systems course has pretty much destroyed whatever love I had for C. I have been trying to recreate the assignment in C++ in the last two days and so far it&amp;rsquo;s been a much better experience trying to write efficient and more maintainable code. At this point im just angry at myself for never using it sooner. There is of course a bit of a learning curve transitioning from C to C++, but from what little I have implemented has really impressed me.&lt;/p&gt;</description>
+&lt;p&gt;It&amp;rsquo;s been a while since I wrote my last blog post. As much as I&amp;rsquo;d like to talk about all the great things I&amp;rsquo;ve done while I’ve been gone, the reality is that the last two weeks haven&amp;rsquo;t really been that great, to be honest. In fact, It’s been quite stressful and full of bad choices, but that is fine since I have learned from my mistakes.&lt;/p&gt;
+&lt;p&gt;The most recent assignment given to us in our Operating Systems course has pretty much destroyed whatever love I had for C. I have been trying to recreate the assignment in C++ in the last two days and so far it&amp;rsquo;s been a much better experience trying to write code that is more efficient and maintainable. At this point, I&amp;rsquo;m just angry at myself for never using it sooner. There is of course a bit of a learning curve transitioning from C to C++, but what little I have implemented has managed to impress me quite a lot.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Happy Sunday!</p>
-<p>It&rsquo;s been a while since I wrote my last blog post. As much as I&rsquo;d like to talk about all the great things I&rsquo;ve done the last two weeks, reality is, the last two weeks haven&rsquo;t really been that great to be honest.</p>
-<p>The most recent assignment given to us in our Operating Systems course has pretty much destroyed whatever love I had for C. I have been trying to recreate the assignment in C++ in the last two days and so far it&rsquo;s been a much better experience trying to write efficient and more maintainable code. At this point im just angry at myself for never using it sooner. There is of course a bit of a learning curve transitioning from C to C++, but from what little I have implemented has really impressed me.</p>
-<p>Our final assignment makes us use all of the concepts we have learned so far to implement a program that simulates a <a href="https://en.wikipedia.org/wiki/Scheduling_(computing)#Goals">process scheduler</a> which simply prints a certain output in a certain order based on the type of given input. In layman&rsquo;s terms, you can think of a scheduler as a traffic policeman that stands at an intersection and manages the flow of traffic to prevent congestion and maintain order.</p>
-<p>Depending on a number of factors, he decides which lane has more priority and is allowed to drive, and which lane doesn&rsquo;t. In the example of an operating system, the scheduler simply does the same job to decide which process is allowed to run and for how long before it must be interrupted to allow another process to run. Depending on how one way design their scheduler, there may simply be no interrupts and a process can be allowed to run to completion.</p>
-<p>and is making me consider working on our final assignment in C++.</p>
+<p>It&rsquo;s been a while since I wrote my last blog post. As much as I&rsquo;d like to talk about all the great things I&rsquo;ve done while I’ve been gone, the reality is that the last two weeks haven&rsquo;t really been that great, to be honest. In fact, It’s been quite stressful and full of bad choices, but that is fine since I have learned from my mistakes.</p>
+<p>The most recent assignment given to us in our Operating Systems course has pretty much destroyed whatever love I had for C. I have been trying to recreate the assignment in C++ in the last two days and so far it&rsquo;s been a much better experience trying to write code that is more efficient and maintainable. At this point, I&rsquo;m just angry at myself for never using it sooner. There is of course a bit of a learning curve transitioning from C to C++, but what little I have implemented has managed to impress me quite a lot.</p>
+<p>Our final assignment makes us use all of the concepts we have learned so far to implement a program that simulates a <a href="https://en.wikipedia.org/wiki/Scheduling_(computing)">process scheduler</a> which simply prints a certain output in a certain order based on the type of given input. In layman&rsquo;s terms, you can think of a scheduler as a traffic policeman who stands at an intersection and manages the flow of traffic to prevent congestion and maintain order. Depending on several factors, he decides which lane has more priority and is allowed to drive, and which lane doesn&rsquo;t.</p>
+<p>In the example of an operating system, the scheduler simply does the same job to decide which process is allowed to run and for how long before it must be interrupted to allow another process to run. Depending on how one may design their scheduler, there may simply be no interrupts and a process can be allowed to run to completion. There are various ways to implement a scheduler that can perform its tasks in different ways.</p>
+<p>I&rsquo;m considering implementing this assignment in C++, and I&rsquo;d love to talk about it once I complete it. This course has really made me appreciate low-level programming and how computers are built and work at their most fundamental level. I believe information like this can definitely help someone write more efficient code for large projects to improve overall system performance, and I&rsquo;m really grateful I have access to this information considering how rare it can be to obtain, especially if someone is teaching themselves all of this stuff.</p>
+<p>As always, I&rsquo;m excited to welcome this new week and hope to continue learning new things!</p>
 ]]></content:encoded>
     </item>
     
