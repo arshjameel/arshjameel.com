@@ -6,7 +6,32 @@
     <description>Recent content in Blogs on Arsh Jameel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2024 09:21:16 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Nov 2024 09:04:34 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog #9 | Serving the Dining Philosophers</title>
+      <link>http://localhost:1313/posts/blog9/</link>
+      <pubDate>Mon, 25 Nov 2024 09:04:34 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog9/</guid>
+      <description>&lt;p&gt;Happy Monday!&lt;/p&gt;
+&lt;p&gt;Over the last week, my partner and I have made significant progress on our OS assignment. He is mainly responsible for the written part of the assignment. He has a better conceptual understanding of the course, so although I was primarily responsible for the coding part of the assignment, he has helped me debug my code for the scheduler simulator so that it behaves in a conceptually accurate manner.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Happy Monday!</p>
+<p>Over the last week, my partner and I have made significant progress on our OS assignment. He is mainly responsible for the written part of the assignment. He has a better conceptual understanding of the course, so although I was primarily responsible for the coding part of the assignment, he has helped me debug my code for the scheduler simulator so that it behaves in a conceptually accurate manner.</p>
+<p>The second part of the assignment was a little bit of a headache and required us to go to the prof&rsquo;s/head TA&rsquo;s office every day to understand if we were on the right track. This part required us to implement a system where 5 processes would be able to run concurrently in an efficient manner.</p>
+<p>To solve the <a href="https://en.wikipedia.org/wiki/Critical_section">critical section problem</a> and the <a href="https://stackoverflow.com/questions/34510/what-is-a-race-condition/34550#34550">race conditions</a> caused by it, we implemented a basic semaphore acquisition system that resembled the <a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem#Problem_statement">“dining philosophers” problem</a>. We then implemented a protocol that behaved similarly to a bounded waiting system where we made sure that if a process was denied a semaphore the first time, the next time it must be able to acquire that semaphore without fail, further solving issues of livelock and deadlock.</p>
+<p>It is a little different approach from most people, as they might usually try to implement <a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem#Dijkstra's_solution">Dijkstra&rsquo;s solution</a>, but math and programming are about problem solving, and each problem can have multiple solutions, so as long as we come up with a solution we are good!</p>
+<p>Except for the part 1 report which discusses and compares the scheduling algorithms with each other, I was able to finish off all the coding parts pretty quickly, giving me lots of time to prepare for finals week.</p>
+<hr>
+<p>This brings us to our plans for this week:</p>
+<ol>
+<li>Finish off the Part 1 report from my OS assignment</li>
+<li>Start revising some material from my OS and RTOS course for the finals week</li>
+</ol>
+<p>As you can see, my plans for this week are pretty chill since there&rsquo;s no high stress work remaining anymore. Hopefully, this will help me fix my sleep schedule again (which I accidentally messed up because of the OS assignment ¯\(ツ)/¯ ).</p>
+<hr>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Blog #8 | Simulator Update - Scheduling and Concurrency</title>
       <link>http://localhost:1313/posts/blog8/</link>
