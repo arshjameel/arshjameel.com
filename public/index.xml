@@ -6,7 +6,24 @@
     <description>Recent content on Arsh Jameel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 09:04:34 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2024 08:37:18 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog #10 | Christmas</title>
+      <link>http://localhost:1313/posts/blog10/</link>
+      <pubDate>Mon, 23 Dec 2024 08:37:18 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/blog10/</guid>
+      <description>&lt;p&gt;Hello everybody!&lt;/p&gt;
+&lt;p&gt;Sorry for suddenly disappearing for a month, but I&amp;rsquo;m finally back! I had to take a sudden break to prepare for my final exams. Now that I&amp;rsquo;m free for the next 2-3 weeks, I don&amp;rsquo;t have any excuses to miss any deadlines for publishing new blog posts.&lt;/p&gt;
+&lt;p&gt;I will continue making updates on my webdev progression as usual. I will also be posting an article soon, describing the scheduling simulator that I had been working on last month for my operating systems course.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Hello everybody!</p>
+<p>Sorry for suddenly disappearing for a month, but I&rsquo;m finally back! I had to take a sudden break to prepare for my final exams. Now that I&rsquo;m free for the next 2-3 weeks, I don&rsquo;t have any excuses to miss any deadlines for publishing new blog posts.</p>
+<p>I will continue making updates on my webdev progression as usual. I will also be posting an article soon, describing the scheduling simulator that I had been working on last month for my operating systems course.</p>
+<p>The next blog will be posted next weekend as usual, and until then, I wish everyone reading this a very happy Christmas! I hope you all enjoy these holidays with your family and take some well-deserved break from work and school!</p>
+<hr>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Blog #9 | Serving the Dining Philosophers</title>
       <link>http://localhost:1313/posts/blog9/</link>
