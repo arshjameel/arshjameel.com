@@ -1,5 +1,5 @@
 ---
-title: "Blog #11 - New Year's Reflections"
+title: "Blog #11 | New Year's Reflections"
 date: 2024-12-31T16:39:19-05:00
 draft: false
 tags: ["blogs"]
